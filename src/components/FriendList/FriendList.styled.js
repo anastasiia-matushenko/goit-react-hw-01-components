@@ -4,7 +4,7 @@ const Friends = styled.ul`
     width: 260px;
     list-style: none;
     padding: 0;
-    margin: 50px auto 0;
+    margin: 50px auto 50px;
 `;
 
 const Item = styled.li`
